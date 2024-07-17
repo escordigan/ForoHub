@@ -15,7 +15,10 @@ La API permite a los usuarios:
 
 -Eliminar un tópico
 
-Es lo que normalmente se conoe como CRUD* (CREATE, READ, UPDATE, DELETE).
+Es lo que normalmente se conoce como CRUD* (CREATE, READ, UPDATE, DELETE).
+
+![insomnia png](https://github.com/user-attachments/assets/51d808fb-2787-4942-bdbc-198bca31749b)
+
 
 ## Dependencias en el POM ##
 
