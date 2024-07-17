@@ -3,6 +3,20 @@ Este proyecto representa el desafío Foro Hub del programa Oracle ONE. Consiste 
 Esta API es completamente backend, utilizando como base el lenguaje de programación Java.
 Los endpoints fueron construidos y probados en Insonmia, se utilizó la base de datos MySql para guardar los datos de los topicos y los usuarios que interactuaban en el foro.
 
+La API permite a los usuarios:
+
+-Crear un nuevo tópico
+
+-Mostrar todos los tópicos creados
+
+-Mostrar un tópico específico
+
+-Actualizar un tópico
+
+-Eliminar un tópico
+
+Es lo que normalmente se conoe como CRUD* (CREATE, READ, UPDATE, DELETE).
+
 ## Dependencias en el POM ##
 
 * Lombok
